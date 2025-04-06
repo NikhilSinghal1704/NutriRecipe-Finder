@@ -43,8 +43,8 @@ This project uses a Kaggle dataset, [7000+ International Cuisine](https://www.ka
    1. **Clone the Repository:**
 
       ```bash
-      git clone https://github.com/NikhilSinghal1704/NutriSense-Streamlit-
-      cd NutriSense-Streamlit-
+      git clone https://github.com/NikhilSinghal1704/NutriRecipe-Finder
+      cd NutriRecipe-Finder
       ```
 
    2. **Create a Virtual Environment:**

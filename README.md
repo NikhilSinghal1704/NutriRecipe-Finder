@@ -21,7 +21,7 @@ This project uses a Kaggle dataset, [7000+ International Cuisine](https://www.ka
 
 ## Features
 
-- **Dataset Analysis:** Cleans and processes over 7000 recipes for improved usability.
+- **Dataset Analysis:** Cleans and processes over 5000 recipes for improved usability.
 - **Nutritional Insights:** Fetches and integrates nutrition data using Spoonacular.
 - **Custom Recipe Filtering:** Allows filtering based on available, desired, and excluded ingredients.
 - **Personalized Experience:** Supports diet-specific searches through a user profile.

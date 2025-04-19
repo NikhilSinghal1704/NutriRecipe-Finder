@@ -1,6 +1,6 @@
 # NutriRecipe Finder
 
-NutriRecipe Finder is a Streamlit-based application that helps users discover Indian recipes tailored to their dietary preferences and available ingredients. By leveraging a comprehensive dataset and advanced NLP techniques, the app provides personalized recipe recommendations enriched with nutritional information.
+NutriRecipe Finder is a Streamlit-powered app that helps users find Indian dishes depending on their nutritional choices and available ingredients. The app uses a large dataset and advanced NLP techniques to deliver tailored meal recommendations that include nutritional information.
 
 ## Overview
 

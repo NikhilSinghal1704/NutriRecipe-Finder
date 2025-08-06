@@ -5,6 +5,8 @@ import sys
 # Change current working directory to where main.py is
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+
 # Must be the first Streamlit command!
 st.set_page_config(
     page_title="Nutrisense - Nutritious Recipes",

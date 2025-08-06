@@ -1,4 +1,9 @@
 import streamlit as st
+import os
+import sys
+
+# Change current working directory to where main.py is
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # Must be the first Streamlit command!
 st.set_page_config(

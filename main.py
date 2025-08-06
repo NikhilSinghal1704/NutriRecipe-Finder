@@ -17,7 +17,7 @@ def load_resources():
     progress_bar = st.progress(0)
     
     with st.spinner("📂 Loading datasets..."):
-        data = pd.read_csv('Spoonacular_Analysis.csv')
+        data = pd.read_csv('./Spoonacular_Analysis.csv')
         ingredients_df = pd.read_csv("Ingredients.csv")
         progress_bar.progress(33)
     
